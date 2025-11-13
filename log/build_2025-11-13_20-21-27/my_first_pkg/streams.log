@@ -1,0 +1,38 @@
+[1.114s] Invoking command in '/home/ppk/ros2_ws/src/my_first_pkg': PYTHONPATH=/home/ppk/ros2_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ppk/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /home/ppk/ros2_ws/build/my_first_pkg/build install --record /home/ppk/ros2_ws/build/my_first_pkg/install.log --single-version-externally-managed install_data
+[1.494s] running egg_info
+[1.519s] creating ../../build/my_first_pkg/my_first_pkg.egg-info
+[1.520s] writing ../../build/my_first_pkg/my_first_pkg.egg-info/PKG-INFO
+[1.522s] writing dependency_links to ../../build/my_first_pkg/my_first_pkg.egg-info/dependency_links.txt
+[1.522s] writing entry points to ../../build/my_first_pkg/my_first_pkg.egg-info/entry_points.txt
+[1.522s] writing requirements to ../../build/my_first_pkg/my_first_pkg.egg-info/requires.txt
+[1.523s] writing top-level names to ../../build/my_first_pkg/my_first_pkg.egg-info/top_level.txt
+[1.523s] writing manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[1.650s] listing git files failed - pretending there aren't any
+[1.722s] reading manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[1.723s] writing manifest file '../../build/my_first_pkg/my_first_pkg.egg-info/SOURCES.txt'
+[1.724s] running build
+[1.724s] running build_py
+[1.724s] creating /home/ppk/ros2_ws/build/my_first_pkg/build/lib/my_first_pkg
+[1.725s] copying my_first_pkg/listener.py -> /home/ppk/ros2_ws/build/my_first_pkg/build/lib/my_first_pkg
+[1.725s] copying my_first_pkg/__init__.py -> /home/ppk/ros2_ws/build/my_first_pkg/build/lib/my_first_pkg
+[1.726s] copying my_first_pkg/talker.py -> /home/ppk/ros2_ws/build/my_first_pkg/build/lib/my_first_pkg
+[1.726s] running install
+[1.730s] running install_lib
+[1.750s] creating /home/ppk/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg
+[1.751s] copying /home/ppk/ros2_ws/build/my_first_pkg/build/lib/my_first_pkg/listener.py -> /home/ppk/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg
+[1.751s] copying /home/ppk/ros2_ws/build/my_first_pkg/build/lib/my_first_pkg/__init__.py -> /home/ppk/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg
+[1.751s] copying /home/ppk/ros2_ws/build/my_first_pkg/build/lib/my_first_pkg/talker.py -> /home/ppk/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg
+[1.752s] byte-compiling /home/ppk/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg/listener.py to listener.cpython-310.pyc
+[1.754s] byte-compiling /home/ppk/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg/__init__.py to __init__.cpython-310.pyc
+[1.754s] byte-compiling /home/ppk/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg/talker.py to talker.cpython-310.pyc
+[1.754s] running install_data
+[1.756s] creating /home/ppk/ros2_ws/install/my_first_pkg/share/ament_index/resource_index/packages
+[1.756s] copying resource/my_first_pkg -> /home/ppk/ros2_ws/install/my_first_pkg/share/ament_index/resource_index/packages
+[1.757s] copying package.xml -> /home/ppk/ros2_ws/install/my_first_pkg/share/my_first_pkg
+[1.757s] running install_egg_info
+[1.780s] Copying ../../build/my_first_pkg/my_first_pkg.egg-info to /home/ppk/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages/my_first_pkg-0.0.0-py3.10.egg-info
+[1.782s] running install_scripts
+[1.831s] Installing listener script to /home/ppk/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[1.832s] Installing talker script to /home/ppk/ros2_ws/install/my_first_pkg/lib/my_first_pkg
+[1.832s] writing list of installed files to '/home/ppk/ros2_ws/build/my_first_pkg/install.log'
+[1.867s] Invoked command in '/home/ppk/ros2_ws/src/my_first_pkg' returned '0': PYTHONPATH=/home/ppk/ros2_ws/build/my_first_pkg/prefix_override:/usr/lib/python3/dist-packages/colcon_core/task/python/colcon_distutils_commands:/home/ppk/ros2_ws/install/my_first_pkg/lib/python3.10/site-packages:${PYTHONPATH} /usr/bin/python3 -W ignore:setup.py install is deprecated -W ignore:easy_install command is deprecated setup.py egg_info --egg-base ../../build/my_first_pkg build --build-base /home/ppk/ros2_ws/build/my_first_pkg/build install --record /home/ppk/ros2_ws/build/my_first_pkg/install.log --single-version-externally-managed install_data
