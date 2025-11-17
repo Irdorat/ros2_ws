@@ -1,3 +1,5 @@
 [console_scripts]
+capture_episode = my_first_pkg.capture_episode:main
 listener = my_first_pkg.listener:main
+local_dsg = my_first_pkg.local_dsg:main
 talker = my_first_pkg.talker:main

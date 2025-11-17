@@ -8,8 +8,15 @@ setup.py
 ../../build/my_first_pkg/my_first_pkg.egg-info/requires.txt
 ../../build/my_first_pkg/my_first_pkg.egg-info/top_level.txt
 ../../build/my_first_pkg/my_first_pkg.egg-info/zip-safe
+.idea/.gitignore
+.idea/misc.xml
+.idea/modules.xml
+.idea/my_first_pkg.iml
+.idea/inspectionProfiles/profiles_settings.xml
 my_first_pkg/__init__.py
+my_first_pkg/capture_episode.py
 my_first_pkg/listener.py
+my_first_pkg/local_dsg.py
 my_first_pkg/talker.py
 resource/my_first_pkg
 test/test_copyright.py

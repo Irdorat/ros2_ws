@@ -1,1 +1,0 @@
-/home/ppk/ros2_ws/src/my_first_pkg/setup.py
