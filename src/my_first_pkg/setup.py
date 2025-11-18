@@ -27,7 +27,8 @@ setup(
             'talker = my_first_pkg.talker:main',
             'listener = my_first_pkg.listener:main',
             'local_dsg = my_first_pkg.local_dsg:main',
-             'capture_episode = my_first_pkg.capture_episode:main',
+            'capture_episode = my_first_pkg.capture_episode:main',
+            'make_test_sensors = my_first_pkg.make_test_sensors:main',
         ],
     },
 )
