@@ -29,6 +29,8 @@ setup(
             'local_dsg = my_first_pkg.local_dsg:main',
             'capture_episode = my_first_pkg.capture_episode:main',
             'make_test_sensors = my_first_pkg.make_test_sensors:main',
+            'publisher = my_first_pkg.publisher:main',
+            'subscriber = my_first_pkg.subscriber:main',
         ],
     },
 )

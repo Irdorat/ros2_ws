@@ -19,6 +19,8 @@ my_first_pkg/capture_episode.py
 my_first_pkg/listener.py
 my_first_pkg/local_dsg.py
 my_first_pkg/make_test_sensors.py
+my_first_pkg/publisher.py
+my_first_pkg/subscriber.py
 my_first_pkg/talker.py
 resource/my_first_pkg
 test/test_copyright.py
