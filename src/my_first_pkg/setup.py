@@ -31,6 +31,9 @@ setup(
             'make_test_sensors = my_first_pkg.make_test_sensors:main',
             'publisher = my_first_pkg.publisher:main',
             'subscriber = my_first_pkg.subscriber:main',
+            'service = my_first_pkg.service_member_function:main',
+            'client = my_first_pkg.client_member_function:main',
+            'launch = my_first_pkg.launch_mimic_turtle:main',
         ],
     },
 )

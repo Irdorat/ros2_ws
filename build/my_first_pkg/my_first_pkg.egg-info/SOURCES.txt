@@ -16,10 +16,13 @@ setup.py
 .idea/inspectionProfiles/profiles_settings.xml
 my_first_pkg/__init__.py
 my_first_pkg/capture_episode.py
+my_first_pkg/client_member_function.py
+my_first_pkg/launch_mimic_turtle.py
 my_first_pkg/listener.py
 my_first_pkg/local_dsg.py
 my_first_pkg/make_test_sensors.py
 my_first_pkg/publisher.py
+my_first_pkg/service_member_function.py
 my_first_pkg/subscriber.py
 my_first_pkg/talker.py
 resource/my_first_pkg

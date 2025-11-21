@@ -1,8 +1,11 @@
 [console_scripts]
 capture_episode = my_first_pkg.capture_episode:main
+client = my_first_pkg.client_member_function:main
+launch = my_first_pkg.launch_mimic_turtle:main
 listener = my_first_pkg.listener:main
 local_dsg = my_first_pkg.local_dsg:main
 make_test_sensors = my_first_pkg.make_test_sensors:main
 publisher = my_first_pkg.publisher:main
+service = my_first_pkg.service_member_function:main
 subscriber = my_first_pkg.subscriber:main
 talker = my_first_pkg.talker:main
